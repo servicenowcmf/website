@@ -17,6 +17,13 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
+/* Header */
+
+#nav1 {
+    background-color:#0000;
+    opacity: 0.75;
+    filter:(opacity=75);
+}
 
 
 /* Home */
